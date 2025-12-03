@@ -20,8 +20,6 @@
 🧩 System Design        ▓▓▓▓▓▓▓▓▓░░░░░░░░ 60%
 ```
 
-> *Dark Neon Visualization — Built to Impress Recruiters & CTOs.*
-
 ---
 
 ## ⚡ **Skills & Tools**
