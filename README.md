@@ -1,9 +1,9 @@
 
-<!-- CYBERPUNK HEADER -->
+<!-- HEADER: CINEMATIC CYBERPUNK -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e0/b5/1a/e0b51a43a0e66c4293992440939c0379.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://i.pinimg.com/originals/e8/50/77/e85077465cb33924df39e57489270433.gif" width="100%" style="border-radius: 10px; border: 2px solid #00F3FF; box-shadow: 0 0 20px #00F3FF;" />
   
-  <br><br>
+  <br>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2000&pause=500&color=00F3FF&center=true&vCenter=true&width=800&height=70&lines=SALMA_TECH_03;NEURAL_ARCHITECT;DATA_OPERATIVE;SYSTEM_ONLINE" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 <!-- TERMINAL SIMULATION -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
 
 ```python
@@ -69,7 +69,8 @@ if __name__ == "__main__":
     <td width="300">
       <div align="center">
         <a href="https://github.com/SalmaTech-03">
-          <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" style="border-radius:10px;">
+          <!-- FIXED GIF: Deep Space -->
+          <img src="https://i.pinimg.com/originals/38/22/23/382223969aa393c3330dc37269f62624.gif" width="100%" style="border-radius:10px; border: 1px solid #00F3FF;">
         </a>
         <h3>🌌 AstroWave Intel</h3>
         <img src="https://img.shields.io/badge/PHYSICS-LIGO-black?style=flat-square">
@@ -81,7 +82,8 @@ if __name__ == "__main__":
     <td width="300">
       <div align="center">
         <a href="https://github.com/SalmaTech-03">
-          <img src="https://media.giphy.com/media/26tn33ai009QWJWplu/giphy.gif" width="100%" style="border-radius:10px;">
+          <!-- FIXED GIF: Data Grid -->
+          <img src="https://i.pinimg.com/originals/3d/08/e6/3d08e6b9aac34df97424d834927b23d9.gif" width="100%" style="border-radius:10px; border: 1px solid #FF9900;">
         </a>
         <h3>⚡ RetainIQ Defense</h3>
         <img src="https://img.shields.io/badge/MODEL-XGBoost-orange?style=flat-square">
@@ -95,7 +97,8 @@ if __name__ == "__main__":
     <td width="300">
       <div align="center">
         <a href="https://github.com/SalmaTech-03">
-          <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" style="border-radius:10px;">
+          <!-- FIXED GIF: Neural Nodes -->
+          <img src="https://i.pinimg.com/originals/60/79/29/607929452ec6df77d0793df9226d70bc.gif" width="100%" style="border-radius:10px; border: 1px solid #BC13FE;">
         </a>
         <h3>🧠 Manas AI</h3>
         <img src="https://img.shields.io/badge/GEN_AI-Gemini-4285F4?style=flat-square">
@@ -107,7 +110,8 @@ if __name__ == "__main__":
     <td width="300">
       <div align="center">
         <a href="https://github.com/SalmaTech-03">
-          <img src="https://media.giphy.com/media/L8Q8gZ99927v2/giphy.gif" width="100%" style="border-radius:10px;">
+          <!-- FIXED GIF: Security HUD -->
+          <img src="https://i.pinimg.com/originals/90/a6/5e/90a65e7be69d7a22e6b262a63200b207.gif" width="100%" style="border-radius:10px; border: 1px solid #00FF41;">
         </a>
         <h3>🛡️ Fraud Command</h3>
         <img src="https://img.shields.io/badge/SEC-Anomaly_Detection-red?style=flat-square">
@@ -121,17 +125,17 @@ if __name__ == "__main__":
 
 <br>
 
-<!-- GITHUB STATS - FIXED FOR DARK MODE -->
+<!-- GITHUB STATS - FIXED SYNTAX -->
 <h2 align="center">📊 <span style="color:#ff0055">SYSTEM_METRICS</span></h2>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SalmaTech-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="stats graph" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaTech-03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
-</p>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalmaTech-03&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
+
+![Salma's Stats](https://github-readme-stats.vercel.app/api?username=SalmaTech-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaTech-03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SalmaTech-03&theme=tokyonight&hide_border=true&background=0D1117)
+
 </div>
 
 <br>
