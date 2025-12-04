@@ -1,112 +1,129 @@
-
-<!-- HEADER: STABLE NEURAL NETWORK -->
+<!-- HEADER: CINEMATIC CYBERPUNK -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a2/dc/96/a2dc9656de2ecb358cf5796b3a246835.gif" width="100%" height="280" style="object-fit: cover; border-radius: 12px; border: 2px solid #00F3FF; box-shadow: 0 0 40px rgba(0, 243, 255, 0.4);" />
+  <img src="https://i.pinimg.com/originals/a2/dc/96/a2dc9656de2ecb358cf5796b3a246835.gif" width="100%" height="300" style="object-fit: cover; border-radius: 12px; border: 2px solid #00F3FF; box-shadow: 0 0 50px rgba(0, 243, 255, 0.2);" />
   
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=38&duration=1500&pause=1000&color=00F3FF&center=true&vCenter=true&width=700&height=70&lines=IDENTITY:+SALMA_TECH_03;SYSTEM_STATUS:+OPERATIONAL;OBJECTIVE:+ARTIFICIAL_GENERAL_INTELLIGENCE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=42&duration=1500&pause=1000&color=00F3FF&center=true&vCenter=true&width=800&height=70&lines=SYSTEM_USER:+SALMA_TECH_03;ACCESS_LEVEL:+ROOT_ADMIN;MODE:+BUILDING_THE_FUTURE;STATUS:+ONLINE" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- TERMINAL BIOS -->
-```bash
-root@SalmaTech-03:~# ./initialize_profile.sh
-> TARGET: Machine Learning Engineer | Data Scientist
-> CURRENT_LOCATION: Netscape
-> LOADING_MODULES: Deep Learning, Quant Finance, NLP...
-> [SUCCESS] "I force data to confess its secrets."
-```
-
 <br>
 
-<!-- TECH STACK: HEXAGONAL STYLE -->
-<h2 align="center">⚡ <span style="color:#bc13fe">THE_ARSENAL</span></h2>
-
+<!-- INTERACTIVE TERMINAL (CLICK TO EXPAND) -->
 <div align="center">
-
-| **COMPUTE CORE** | **ALGORITHMS** | **DEPLOYMENT** |
-| :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
-| ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) | ![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-
+  <table>
+    <tr>
+      <td>
+        <details>
+          <summary><b>🚨 <span style="color: #bc13fe;">CLICK_TO_DECRYPT_BIO_DATA</span> 🚨</b></summary>
+          <br>
+          <code>> IDENT: Salma S.</code><br>
+          <code>> ROLE: Machine Learning Engineer</code><br>
+          <code>> LOCATION: Netscape Node</code><br>
+          <code>> MISSION: "Encoding the fabric of reality into vectors."</code><br>
+          <code>> CURRENT_FOCUS: Uplift Modeling & Deep Learning</code><br>
+          <br>
+          <img src="https://media.giphy.com/media/L8Q8gZ99927v2/giphy.gif" width="100%">
+        </details>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-<!-- PROJECTS GRID: REPLACED WITH STABLE IMAGES -->
-<h2 align="center">☢️ <span style="color:#00ff41">MISSION_LOG</span></h2>
+<!-- ANIMATED TECH STACK -->
+<h2 align="center">⚡ <span style="color:#00ff41">ACTIVE_PROTOCOLS</span></h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,aws,fastapi,git,linux,mongodb,mysql,opencv,pandas,scikitlearn,selenium&perline=7&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<!-- 3D ISOMETRIC STATS (THE WOW FACTOR) -->
+<h2 align="center">📊 <span style="color:#bc13fe">DATA_VISUALIZATION</span></h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SalmaTech-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaTech-03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Langs" />
+</div>
+
+<br>
+
+<!-- PROJECTS GRID (STABLE ASSETS) -->
+<h2 align="center">☢️ <span style="color:#00F3FF">DEPLOYED_SYSTEMS</span></h2>
 
 <table border="0" align="center" width="100%">
   <tr>
     <!-- PROJECT 1 -->
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/SalmaTech-03">
-        <img src="https://i.pinimg.com/originals/2d/27/9f/2d279f6764d7042a3cf723b72227d862.gif" width="100%" style="border-radius:8px; border: 1px solid #00F3FF; object-fit: cover; height: 200px;">
+        <img src="https://i.pinimg.com/originals/2d/27/9f/2d279f6764d7042a3cf723b72227d862.gif" width="100%" style="border-radius:8px; border: 1px solid #00F3FF; object-fit: cover; height: 180px;">
       </a>
       <br>
       <h3>🌌 AstroWave Intel</h3>
       <img src="https://img.shields.io/badge/PHYSICS-LIGO-black?style=flat-square"> <img src="https://img.shields.io/badge/AI-CNN-blue?style=flat-square">
-      <br><br>
-      Scanning the cosmos for <strong>Gravitational Waves</strong>. Converting raw time-series into Q-Transforms and detecting deep space chirps.
+      <br>
+      <details>
+        <summary><b>[VIEW_SPECS]</b></summary>
+        Scanning the cosmos for Gravitational Waves using Custom CNNs on raw time-series data.
+      </details>
     </td>
     <!-- PROJECT 2 -->
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/SalmaTech-03">
-        <img src="https://i.pinimg.com/originals/db/ae/11/dbae11400ba60dc7d8487b7a489b827e.gif" width="100%" style="border-radius:8px; border: 1px solid #FF9900; object-fit: cover; height: 200px;">
+        <img src="https://i.pinimg.com/originals/db/ae/11/dbae11400ba60dc7d8487b7a489b827e.gif" width="100%" style="border-radius:8px; border: 1px solid #FF9900; object-fit: cover; height: 180px;">
       </a>
       <br>
       <h3>⚡ RetainIQ Defense</h3>
       <img src="https://img.shields.io/badge/MODEL-XGBoost-orange?style=flat-square"> <img src="https://img.shields.io/badge/MATH-Causal_ML-purple?style=flat-square">
-      <br><br>
-      <strong>Autonomous Churn Prevention.</strong> Leveraging Uplift Modeling to predict who can be saved. Deployed as a microservice.
+      <br>
+      <details>
+        <summary><b>[VIEW_SPECS]</b></summary>
+        Autonomous Churn Prevention using Uplift Modeling to predict persuadable customers.
+      </details>
     </td>
   </tr>
   <tr>
     <!-- PROJECT 3 -->
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/SalmaTech-03">
-        <img src="https://i.pinimg.com/originals/bc/26/2c/bc262c0b439c2794eb827dc02a24c042.gif" width="100%" style="border-radius:8px; border: 1px solid #BC13FE; object-fit: cover; height: 200px;">
+        <img src="https://i.pinimg.com/originals/bc/26/2c/bc262c0b439c2794eb827dc02a24c042.gif" width="100%" style="border-radius:8px; border: 1px solid #BC13FE; object-fit: cover; height: 180px;">
       </a>
       <br>
       <h3>🧠 Manas AI</h3>
       <img src="https://img.shields.io/badge/GEN_AI-Gemini-4285F4?style=flat-square"> <img src="https://img.shields.io/badge/AUDIO-MusicGen-yellow?style=flat-square">
-      <br><br>
-      <strong>Psychotherapeutic Companion.</strong> A multimodal system generating poetry, CBT-based chat, and ambient soundscapes.
+      <br>
+      <details>
+        <summary><b>[VIEW_SPECS]</b></summary>
+        Psychotherapeutic Companion generating poetry, CBT-based chat, and ambient soundscapes.
+      </details>
     </td>
     <!-- PROJECT 4 -->
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/SalmaTech-03">
-        <img src="https://i.pinimg.com/originals/24/76/5d/24765d70a7833203ce30948967409247.gif" width="100%" style="border-radius:8px; border: 1px solid #00FF41; object-fit: cover; height: 200px;">
+        <img src="https://i.pinimg.com/originals/24/76/5d/24765d70a7833203ce30948967409247.gif" width="100%" style="border-radius:8px; border: 1px solid #00FF41; object-fit: cover; height: 180px;">
       </a>
       <br>
       <h3>🛡️ Fraud Command</h3>
       <img src="https://img.shields.io/badge/SEC-Anomaly_Detection-red?style=flat-square"> <img src="https://img.shields.io/badge/XAI-LIME-green?style=flat-square">
-      <br><br>
-      <strong>Real-Time Financial Surveillance.</strong> A Glass-Box AI system using Gradient Boosting and LIME to interpret fraud vectors.
+      <br>
+      <details>
+        <summary><b>[VIEW_SPECS]</b></summary>
+        Real-Time Financial Surveillance using Gradient Boosting and LIME for explanation.
+      </details>
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- GITHUB STATS -->
-<h2 align="center">📊 <span style="color:#ff0055">SYSTEM_METRICS</span></h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalmaTech-03&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Salma's Github Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaTech-03&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
-<br>
-
+<!-- SNAKE GAME PLACEHOLDER (Static for now, requires Action for animation) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalmaTech-03&theme=react&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <img src="https://github.com/platane/platane/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br>
@@ -130,4 +147,3 @@ root@SalmaTech-03:~# ./initialize_profile.sh
     // SYSTEM HALTED.
   </p>
 </div>
-```
