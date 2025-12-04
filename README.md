@@ -1,7 +1,7 @@
 <!-- HEADER SECTION -->
 <div align="center">
   <!-- Name & Title -->
-  <h1 style="font-size: 50px; font-weight: bold;">Salma Syed</h1>
+  <h1 style="font-size: 50px; font-weight: bold;">Salma S</h1>
   <h3>AI & Data Science Engineer</h3>
 
   <!-- TYPING EFFECT (FIXED: Increased width to prevent cutting off) -->
