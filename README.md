@@ -1,14 +1,16 @@
-
-<!-- HEADER & BANNER -->
+<!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF0040&height=300&section=header&text=Salma%20Syed&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descAlign=62" width="100%"/>
-  
+  <!-- Name & Title -->
+  <h1 style="font-size: 50px; font-weight: bold;">Salma Syed</h1>
+  <h3>AI & Data Science Engineer</h3>
+
+  <!-- TYPING EFFECT (The "Pushing boundaries" text) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Turning+complex+data+into+futuristic+AI+experiences.;Building+production-grade+RAG+systems.;Pushing+boundaries+of+Explainable+AI." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Turning+complex+data+into+futuristic+AI+experiences.;Building+production-grade+RAG+systems.;Pushing+boundaries+of+Explainable+AI." alt="Typing SVG" />
   </a>
 </div>
 
-<!-- SOCIALS -->
+<!-- SOCIAL LINKS -->
 <div align="center">
   <a href="https://www.linkedin.com/in/salma-s-206671203">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -23,16 +25,15 @@
 
 <br />
 
-<!-- INTRO & VISUAL -->
+<!-- INTRO VISUAL -->
 <div align="center">
-  <img src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(0, 240, 255, 0.4); border: 2px solid #30363d;"/>
+  <img src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2); border: 1px solid #ddd;"/>
 </div>
 
-<h3 align="center">
-  🔹 Full-stack AI Engineer | Data Scientist | Deep Learning Architect 🔹
-</h3>
+<br />
 
 <p align="center">
+ 🔹 <b>Full-stack AI Engineer | Data Scientist | Deep Learning Architect</b> 🔹<br>
  I specialize in building <b>high-performance AI dashboards</b>, <b>multimodal RAG systems</b>, and <b>predictive engines</b>. My work focuses on bridging the gap between raw complex data and sleek, explainable user experiences.
 </p>
 
@@ -66,7 +67,7 @@
   <tr>
     <td>
       <h3>RentAI Pro — AI Rental Agreement Analyzer</h3>
-      <p>Upload PDFs and instantly interrogate contracts. Extracts clauses & validates terms with zero hallucination using dual LLM support (cloud & local).</p>
+      <p>Upload PDFs and instantly interrogate contracts. Extracts clauses & validates terms with zero hallucination using dual LLM support.</p>
       <ul>
         <li><b>Impact:</b> Streamlined legal understanding in seconds for real estate compliance.</li>
       </ul>
@@ -100,7 +101,7 @@
   <!-- PROJECT 3 -->
   <tr>
     <td>
-      <h3>AstroWave Intelligence — Gravitational Wave Detector</h3>
+      <h3>AstroWave Intelligence</h3>
       <p>Automated astrophysical event detection with 98% accuracy using Time-Frequency Q-Transforms on raw LIGO strain data.</p>
       <ul>
         <li><b>Impact:</b> Real-time detection of cosmic signals via interactive dashboards.</li>
@@ -110,7 +111,6 @@
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/CNN-Deep_Learning-purple?style=flat-square"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LIGO_Data-Physics-blue?style=flat-square"/>
     </td>
   </tr>
 
@@ -127,7 +127,6 @@
       <img src="https://img.shields.io/badge/XGBoost-EB9F0D?style=flat-square"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
       <img src="https://img.shields.io/badge/LIME-Explainable_AI-green?style=flat-square"/>
-      <img src="https://img.shields.io/badge/SMOTE-Data_Ops-blue?style=flat-square"/>
     </td>
   </tr>
 
@@ -143,7 +142,6 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
       <img src="https://img.shields.io/badge/FAISS-009688?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
     </td>
   </tr>
@@ -161,7 +159,6 @@
       <img src="https://img.shields.io/badge/TensorFlow_LSTM-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/BERT-NLP-blue?style=flat-square"/>
       <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
     </td>
   </tr>
 
@@ -183,17 +180,3 @@
 </table>
 
 ---
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalmaTech-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaTech-03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0040,100:00F0FF&height=100&section=footer" width="100%"/>
-</div>
-```
