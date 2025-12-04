@@ -6,7 +6,7 @@
 
   <!-- TYPING EFFECT (The "Pushing boundaries" text) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Turning+complex+data+into+futuristic+AI+experiences.;Building+production-grade+RAG+systems.;Pushing+boundaries+of+Explainable+AI." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=333333&center=true&vCenter=true&width=800&lines=Turning+complex+data+into+futuristic+AI+experiences.;Building+production-grade+RAG+systems.;Pushing+boundaries+of+Explainable+AI." alt="Typing SVG" />
   </a>
 </div>
 
