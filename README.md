@@ -1,13 +1,4 @@
 
-
-### 📋 How to use this:
-1.  **Copy** the raw code block below.
-2.  **Paste** it into your `README.md` file.
-3.  **Important:** Ensure your GIFs are actually located in a folder named `assets` in your repo, or update the links.
-
-***
-
-```markdown
 <!-- HEADER & BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF0040&height=300&section=header&text=Salma%20Syed&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descAlign=62" width="100%"/>
