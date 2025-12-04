@@ -6,7 +6,7 @@
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2000&pause=500&color=00F3FF&center=true&vCenter=true&width=800&height=70&lines=SALMA_TECH_03;NEURAL_ARCHITECT;DATA_OPERATIVE;SYSTEM_ONLINE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2000&pause=500&color=00F3FF&center=true&vCenter=true&width=800&height=70&lines=SALMA S;NEURAL_ARCHITECT;DATA_OPERATIVE;SYSTEM_ONLINE" alt="Typing SVG" />
   </a>
 </div>
 
@@ -124,21 +124,21 @@ if __name__ == "__main__":
 <!-- GITHUB STATS - TOKYONIGHT NEON THEME -->
 <h2 align="center">📊 <span style="color:#ff0055">SYSTEM_METRICS</span></h2>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SalmaTech-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SalmaTech-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="Salma's GitHub Stats" />
   </a>
+  &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SalmaTech-03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaTech-03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
   </a>
-</div>
+</p>
 
 <br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalmaTech-03&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
 </div>
-
 <br>
 
 <!-- CONNECT & FOOTER -->
