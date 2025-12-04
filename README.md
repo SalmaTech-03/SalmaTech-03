@@ -1,96 +1,111 @@
-<!-- HEADER & TYPING EFFECT -->
+
+<!-- HEADER WITH TYPING EFFECT -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <h1 align="center">Hi there, I'm <a href="https://github.com/SalmaTech-03" target="_blank">Salma</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW56b3hsZGd1ZDV1Z3h5azFjcjQ5Z254a3l4Z3V4Z3V4Z3V4Z3V4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVThqceK6M8XU/giphy.gif" width="120" />
   
+  <h1 align="center">SYSTEM ONLINE: <span style="color:#00f3ff">SalmaTech-03</span></h1>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+ML+Engineer;Architecting+Neural+Networks;Building+Predictive+Systems;Turning+Data+Into+Intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F3FF&background=0D111700&center=true&vCenter=true&width=600&lines=Initializing+Neural+Networks...;Architecting+Predictive+Systems...;Deploying+AI+Microservices...;Target%3A+Data-Driven+Intelligence." alt="Typing SVG" />
   </a>
 </div>
-
-<p align="center"> 
-  <samp>
-    <br>
-    "In God we trust. All others must bring data."
-    <br>
-  </samp>
-</p>
 
 <div align="center">
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Me-ff00ff?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/CONTACT_ME-FF0055?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
   </a>
-  <a href="https://kaggle.com/">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <a href="https://github.com/SalmaTech-03">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" />
   </a>
 </div>
 
+<br>
+
+<!-- TERMINAL STYLE INTRO -->
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Salma"
+        self.role = "Machine Learning Engineer"
+        self.mission = "Solving complex problems with deep learning & statistical rigor."
+        self.status = "Building the future, one tensor at a time."
+    
+    def deploy(self):
+        return "Production-Ready AI"
+```
+
 ---
 
-<!-- TECH STACK SECTION -->
-<h2 align="center">⚡ The Arsenal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="center">⚡ THE TECH ARSENAL</h2>
 
 <div align="center">
   
-| **Core** | **Machine Learning** | **Deep Learning** | **Deployment & Ops** |
+| **CORE & COMPUTE** | **MACHINE LEARNING** | **DEEP LEARNING** | **MLOPS & DEPLOY** |
 | :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![XGBoost](https://img.shields.io/badge/XGBoost-FLLAT-orange?style=for-the-badge) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![LIME](https://img.shields.io/badge/XAI-LIME-green?style=for-the-badge) | ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
-| ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) | ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Scikit](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![XGBoost](https://img.shields.io/badge/XGBoost-EB4034?style=for-the-badge&logo=xgboost&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![LIME](https://img.shields.io/badge/XAI-LIME-00C853?style=for-the-badge) | ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) |
 
 </div>
 
 ---
 
-<!-- PROJECT SHOWCASE -->
-<h2 align="center">🧪 Featured Intelligence</h2>
+<h2 align="center">🧪 INTELLIGENCE HUB (Featured Projects)</h2>
 
-<table align="center">
+<table border="0" width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">🌌 AstroWave Intelligence</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🌌 <a href="#">AstroWave Intelligence</a></h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Deep_Learning-CNN-blue" /> 
-        <img src="https://img.shields.io/badge/Physics-LIGO_Data-black" />
+        <img src="https://img.shields.io/badge/Deep_Learning-CNN-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Physics-LIGO-black?style=flat-square" />
       </div>
-      <p align="center">
-        Detection of cosmic gravitational waves using Deep Learning. Processes raw strain data from the LIGO observatory, converting time-series into Q-Transforms for CNN classification.
+      <br>
+      <p>
+        <strong>Gravitational Wave Detection System.</strong><br>
+        Processes raw strain data ($10^{-19}m$) from the LIGO observatory using <strong>Time-Frequency Q-Transforms</strong>. Utilizes a custom <strong>Convolutional Neural Network (CNN)</strong> to distinguish cosmic chirps from background noise.
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">⚡ RetainIQ: Churn Defense</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ <a href="#">RetainIQ Defense</a></h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/ML-XGBoost-orange" />
-        <img src="https://img.shields.io/badge/Stats-Causal_Inference-purple" />
+        <img src="https://img.shields.io/badge/ML-XGBoost-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stats-Causal_Inference-purple?style=flat-square" />
       </div>
-      <p align="center">
-        An autonomous customer retention engine. Uses Uplift Modeling to identify "persuadable" customers and deploys as a microservice to prevent churn before it happens.
+      <br>
+      <p>
+        <strong>Autonomous Churn Prevention Engine.</strong><br>
+        Moves beyond prediction to intervention. Leverages <strong>Uplift Modeling</strong> to identify "persuadable" customers. Deployed as a microservice using <strong>FastAPI</strong> and <strong>Docker</strong> for real-time risk scoring.
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🧠 Manas: AI Wellness</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 <a href="#">Manas: Wellness AI</a></h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/GenAI-Gemini_Flash-4285F4" />
-        <img src="https://img.shields.io/badge/Audio-MusicGen-FFD21E" />
+        <img src="https://img.shields.io/badge/GenAI-Gemini_Flash-4285F4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Audio-MusicGen-FFD21E?style=flat-square" />
       </div>
-      <p align="center">
-        A multimodal psychotherapeutic companion. Features generative chat, dynamic poetry generation, and AI-composed ambient soundscapes for mental wellness.
+      <br>
+      <p>
+        <strong>Multimodal Psychotherapeutic Companion.</strong><br>
+        A holistic mental health platform featuring Generative AI chat, dynamic poetry generation, and <strong>AI-composed ambient soundscapes</strong> tailored to user mood.
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🛡️ Fraud Command Center</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ <a href="#">Fraud Command Center</a></h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Security-Anomaly_Detection-red" />
-        <img src="https://img.shields.io/badge/XAI-LIME-green" />
+        <img src="https://img.shields.io/badge/Security-Anomaly_Detection-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/XAI-LIME-green?style=flat-square" />
       </div>
-      <p align="center">
-        Real-time financial surveillance dashboard. Fuses Gradient Boosting for detection with LIME for explainability, allowing forensic analysis of transaction streams.
+      <br>
+      <p>
+        <strong>Real-Time Financial Surveillance.</strong><br>
+        A "Glass Box" AI system. Fuses <strong>Gradient Boosting</strong> for high-precision fraud detection with <strong>LIME</strong> for Explainable AI, allowing forensic analysis of transaction streams.
       </p>
     </td>
   </tr>
@@ -98,23 +113,30 @@
 
 ---
 
-<!-- GITHUB STATS -->
-<h2 align="center">📊 The Metrics</h2>
+<h2 align="center">📊 DATA TELEMETRY</h2>
+
+<!-- STATS GRID - USING TOKYONIGHT THEME FOR DARK MODE COMPATIBILITY -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SalmaTech-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaTech-03&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="languages graph" />
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalmaTech-03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaTech-03&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph"  />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalmaTech-03&theme=radical&hide_border=true&background=0D1117" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalmaTech-03&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
 </div>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SalmaTech-03&style=for-the-badge&color=00f3ff&label=DATA+POINTS+PROCESSED" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=SalmaTech-03&style=for-the-badge&color=00f3ff&label=NEURAL+NETS+TRAINED" alt="visitor counter"/>
+  
   <br><br>
-  <p><i>"Data is the new oil. It's valuable, but if unrefined it cannot really be used."</i></p>
+  
+  <p style="color: #8b949e; font-style: italic;">
+    "Data is the code of the universe. I just write the compiler."
+  </p>
 </div>
+```
+
