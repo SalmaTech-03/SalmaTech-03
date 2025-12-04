@@ -1,168 +1,119 @@
 
-<!-- HEADER: QUANTUM NEXUS OVERRIDE -->
+<!-- CUTE HEADER -->
 <div align="center">
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/f7a3bae1-af78-4f77-9584-8ebbd5c2b464.png" width="100%" height="350" style="object-fit: cover; border-radius: 0px; border: 3px solid #00FF41; box-shadow: 0 0 50px #00FF41, inset 0 0 50px rgba(0,255,65,0.2);" />
+  <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/a4a62453-58e8-40a7-9165-10bfb0b487b7.png" width="100%" height="300" style="object-fit: cover; border-radius: 20px; border: 3px solid #FFB6D9; box-shadow: 0 8px 32px rgba(255, 182, 217, 0.3);" />
   
-  <br>
+  <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=50&duration=1200&pause=800&color=00FF41&center=true&vCenter=true&width=900&height=80&lines=NEURAL_NEXUS_ACTIVE;QUANTUM_SYSTEMS_ONLINE;PROTOCOL%3ADEEP_INTELLIGENCE;ACCESS_LEVEL%3A_UNRESTRICTED" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=45&duration=2000&pause=1000&color=FFB6D9&center=true&vCenter=true&width=800&height=70&lines=✨+Hi+I'm+Salma!+✨;🎀+ML+Engineer+🎀;🌸+Data+Scientist+🌸;💫+Building+Cool+Stuff+💫" alt="Typing SVG" />
   </a>
 
   <br>
   
-  <!-- POWER METRICS BANNER -->
-  <svg width="100%" height="60" xmlns="http://www.w3.org/2000/svg" style="margin: 20px 0;">
-    <defs>
-      <linearGradient id="powerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#00FF41;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#BC13FE;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FF0055;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="100%" fill="#0D1117" opacity="0.8"/>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="24" fill="url(#powerGrad)" font-weight="bold">
-      ▓▓▓ SYSTEM INITIALIZATION COMPLETE ▓▓▓
-    </text>
-  </svg>
+  <p style="color: #FF69B4; font-size: 18px; font-weight: bold;">
+    🌙 *Welcome to my cozy corner of GitHub* 🌙
+  </p>
 </div>
 
 <br>
 
-<!-- TERMINAL BOOT SEQUENCE -->
-<div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 12px; border: 2px solid #00FF41; box-shadow: 0 0 40px rgba(0,255,65,0.3); margin: 20px 0;">
+<!-- CUTE BIO SECTION -->
+<div align="center" style="background: linear-gradient(135deg, rgba(255, 182, 217, 0.15), rgba(200, 150, 220, 0.15)); padding: 30px; border-radius: 20px; border: 2px solid #FFB6D9; box-shadow: 0 8px 32px rgba(255, 182, 217, 0.2);">
+
+### 💕 About Me
 
 ```
-╔════════════════════════════════════════════════════════════════╗
-║           NEURAL_ARCHITECT v2.0 — SYSTEM PROTOCOL             ║
-╚════════════════════════════════════════════════════════════════╝
-
-root@SALMA-NEXUS:~# ./init_consciousness.exe
-> ✓ Loading Deep Learning Architecture
-> ✓ Initializing Causal Inference Engine
-> ✓ Bootstrapping Quantum Processors
-> ✓ Activating Generative Intelligence Module
-
-root@SALMA-NEXUS:~# whoami
-> NEURAL ARCHITECT | ML SYSTEMS ENGINEER | PHYSICS MODELER
-
-root@SALMA-NEXUS:~# cat /core/mission.log
-> "Data doesn't confess. It SCREAMS."
-> ◆ Gravitational Wave Detection (LIGO)
-> ◆ Causal ML & Uplift Modeling
-> ◆ Multimodal Generative AI Systems
-> ◆ Real-Time Financial Anomaly Detection
-
-root@SALMA-NEXUS:~# STATUS: FULLY_OPERATIONAL ✓
+🎀 Hello! I'm a Neural Architect & ML Engineer
+✨ I love building intelligent systems that make a difference
+🌸 Passionate about: Deep Learning, Causal Inference & Generative AI
+💫 When I'm not coding, I'm exploring physics and designing UX
+🌊 Fun fact: I detect gravitational waves AND help prevent customer churn!
 ```
 
 </div>
 
 <br>
 
-<!-- ADVANCED TECH STACK: VISUAL POWER -->
-<h2 align="center" style="color: #00FF41; text-shadow: 0 0 20px #00FF41;">⚙️ NEURAL_ARCHITECTURE & DEPLOYMENT_STACK</h2>
+<!-- CUTE TECH STACK -->
+<h2 align="center" style="color: #FFB6D9;">✨ My Favorite Tools & Languages ✨</h2>
 
-<div align="center" style="background: linear-gradient(to right, rgba(0,255,65,0.1), rgba(188,19,254,0.1)); padding: 30px; border-radius: 12px; border-left: 4px solid #00FF41; border-right: 4px solid #BC13FE;">
+<div align="center" style="background: linear-gradient(to right, rgba(255, 200, 221, 0.1), rgba(200, 150, 255, 0.1)); padding: 25px; border-radius: 15px; border: 2px solid #E6B3D4; margin: 20px 0;">
 
-### 🔴 **CORE PROCESSORS**
-```
-[████████████████] Python         | High-Speed Data Processing
-[████████████████] PyTorch        | Deep Neural Architecture
-[████████████████] TensorFlow     | Enterprise ML Infrastructure
-[████████████████] FastAPI        | Distributed Systems Backend
-```
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin: 20px 0;">
 
-### 🟣 **AI/ML COMMAND CENTER**
-```
-[████████████████] Scikit-Learn   | Classical ML Mastery
-[████████████████] XGBoost        | Gradient Boosting Supremacy
-[████████████████] Causal ML      | Counterfactual Analysis
-[████████████████] OpenCV         | Computer Vision Warriors
-```
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFB6D9)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🟢 **DEPLOYMENT & INFRASTRUCTURE**
-```
-[████████████████] Docker         | Containerized Warfare
-[████████████████] AWS/GCP        | Cloud-Scale Operations
-[████████████████] PostgreSQL     | Enterprise Database Fortress
-[████████████████] Redis          | Real-Time Cache Ninja
-```
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
 
 </div>
 
 <br>
 
-<!-- HIGH-POWER PROJECT SHOWCASE -->
-<h2 align="center" style="color: #FF0055; text-shadow: 0 0 20px #FF0055;">⚡ CLASSIFIED_PROJECTS_NEXUS</h2>
+<!-- CUTE PROJECTS SECTION -->
+<h2 align="center" style="color: #FFB6D9;">🌟 My Projects 🌟</h2>
 
 <table border="0" align="center" width="100%">
   <tr>
-    <!-- PROJECT 1: LIGO DETECTOR -->
+    <!-- PROJECT 1 -->
     <td width="50%" align="center" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(0,243,255,0.15) 0%, rgba(0,255,65,0.1) 100%); padding: 20px; border-radius: 12px; border: 2px solid #00F3FF; box-shadow: 0 0 30px rgba(0,243,255,0.3);">
-        <h3 style="color: #00F3FF; text-shadow: 0 0 15px #00F3FF;">🌌 AstroWave_NEXUS</h3>
-        <p style="font-family: monospace; color: #00FF41; margin: 10px 0;">
-          ► Physics: LIGO Detector Analysis<br>
-          ► Model: CNN + Wavelet Transform<br>
-          ► Output: Gravitational Wave Detection
-        </p>
-        <div style="background: #0D1117; padding: 10px; border-radius: 8px; border: 1px solid #00F3FF; margin: 10px 0;">
-          <p style="color: #00F3FF; font-size: 12px; margin: 0;">Converting raw time-series data into Q-Transforms. Detecting deep-space chirps with 99.2% accuracy. Deployed on GPU clusters.</p>
+      <div style="background: linear-gradient(135deg, rgba(255, 182, 217, 0.2), rgba(230, 179, 212, 0.2)); padding: 25px; border-radius: 15px; border: 2px dashed #FFB6D9; box-shadow: 0 8px 25px rgba(255, 182, 217, 0.2);">
+        <h3 style="color: #FF69B4;">🌌 AstroWave Intel</h3>
+        <p style="color: #666; font-size: 14px;">Physics meets AI! Detecting gravitational waves from LIGO data using CNN and signal processing.</p>
+        <div style="background: white; padding: 12px; border-radius: 10px; margin: 12px 0; border: 1px solid #FFE0ED;">
+          <span style="color: #FFB6D9; font-family: monospace; font-size: 12px;">🔬 LIGO | CNN | Q-Transforms</span>
         </div>
-        <img src="https://img.shields.io/badge/PHYSICS-LIGO-00F3FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjMDBGM0ZGIi8+PC9zdmc+" />
-        <img src="https://img.shields.io/badge/MODEL-CNN-purple?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Physics-LIGO-FFB6D9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Model-CNN-FF69B4?style=flat-square" />
       </div>
     </td>
-    <!-- PROJECT 2: CHURN DEFENSE -->
+    <!-- PROJECT 2 -->
     <td width="50%" align="center" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(255,153,0,0.15) 0%, rgba(255,0,85,0.1) 100%); padding: 20px; border-radius: 12px; border: 2px solid #FF9900; box-shadow: 0 0 30px rgba(255,153,0,0.3);">
-        <h3 style="color: #FF9900; text-shadow: 0 0 15px #FF9900;">⚡ RetainIQ_DEFENSE</h3>
-        <p style="font-family: monospace; color: #00FF41; margin: 10px 0;">
-          ► Algorithm: Uplift Modeling + XGBoost<br>
-          ► Causal: Heterogeneous Treatment Effects<br>
-          ► Deploy: Real-Time Microservice
-        </p>
-        <div style="background: #0D1117; padding: 10px; border-radius: 8px; border: 1px solid #FF9900; margin: 10px 0;">
-          <p style="color: #FF9900; font-size: 12px; margin: 0;">Autonomous churn prevention via causal inference. Predicts who can be saved. Deployed as containerized FastAPI microservice with 40ms latency.</p>
+      <div style="background: linear-gradient(135deg, rgba(200, 150, 220, 0.2), rgba(220, 170, 240, 0.2)); padding: 25px; border-radius: 15px; border: 2px dashed #D4A5E0; box-shadow: 0 8px 25px rgba(200, 150, 220, 0.2);">
+        <h3 style="color: #B366CC;">⚡ RetainIQ Defense</h3>
+        <p style="color: #666; font-size: 14px;">Smart churn prevention using causal ML & uplift modeling to predict who can be saved.</p>
+        <div style="background: white; padding: 12px; border-radius: 10px; margin: 12px 0; border: 1px solid #E8D5F0;">
+          <span style="color: #D4A5E0; font-family: monospace; font-size: 12px;">📊 XGBoost | Causal ML | Microservice</span>
         </div>
-        <img src="https://img.shields.io/badge/MODEL-XGBoost-orange?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/MATH-Causal_ML-BC13FE?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Model-XGBoost-B366CC?style=flat-square" />
+        <img src="https://img.shields.io/badge/Math-Causal ML-FFB6D9?style=flat-square" />
       </div>
     </td>
   </tr>
-  <tr style="height: 30px;"></tr>
+  <tr style="height: 20px;"></tr>
   <tr>
-    <!-- PROJECT 3: MANAS AI -->
+    <!-- PROJECT 3 -->
     <td width="50%" align="center" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(188,19,254,0.15) 0%, rgba(0,255,65,0.1) 100%); padding: 20px; border-radius: 12px; border: 2px solid #BC13FE; box-shadow: 0 0 30px rgba(188,19,254,0.3);">
-        <h3 style="color: #BC13FE; text-shadow: 0 0 15px #BC13FE;">🧠 Manas_PSYCHE</h3>
-        <p style="font-family: monospace; color: #00FF41; margin: 10px 0;">
-          ► Generative: Gemini + MusicGen<br>
-          ► Multimodal: Audio + Text + Vision<br>
-          ► Purpose: Psychotherapeutic Companion
-        </p>
-        <div style="background: #0D1117; padding: 10px; border-radius: 8px; border: 1px solid #BC13FE; margin: 10px 0;">
-          <p style="color: #BC13FE; font-size: 12px; margin: 0;">Multimodal system generating therapeutic poetry, CBT-based conversations, and ambient soundscapes. Trained on psychotherapy datasets.</p>
+      <div style="background: linear-gradient(135deg, rgba(150, 200, 220, 0.2), rgba(180, 220, 240, 0.2)); padding: 25px; border-radius: 15px; border: 2px dashed #9AD0E0; box-shadow: 0 8px 25px rgba(150, 200, 220, 0.2);">
+        <h3 style="color: #00A8CC;">🧠 Manas AI</h3>
+        <p style="color: #666; font-size: 14px;">Your friendly multimodal companion generating poetry, therapy, and ambient soundscapes.</p>
+        <div style="background: white; padding: 12px; border-radius: 10px; margin: 12px 0; border: 1px solid #D0E8F2;">
+          <span style="color: #9AD0E0; font-family: monospace; font-size: 12px;">💬 Gemini | MusicGen | Multimodal</span>
         </div>
-        <img src="https://img.shields.io/badge/GEN_AI-Gemini-4285F4?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/AUDIO-MusicGen-yellow?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/GenAI-Gemini-4285F4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Audio-MusicGen-FFD700?style=flat-square" />
       </div>
     </td>
-    <!-- PROJECT 4: FRAUD COMMAND -->
+    <!-- PROJECT 4 -->
     <td width="50%" align="center" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(255,0,85,0.15) 0%, rgba(0,255,65,0.1) 100%); padding: 20px; border-radius: 12px; border: 2px solid #FF0055; box-shadow: 0 0 30px rgba(255,0,85,0.3);">
-        <h3 style="color: #FF0055; text-shadow: 0 0 15px #FF0055;">🛡️ Fraud_COMMAND</h3>
-        <p style="font-family: monospace; color: #00FF41; margin: 10px 0;">
-          ► Detection: Anomaly Detection + LIME<br>
-          ► Explainability: Glass-Box AI<br>
-          ► Latency: Real-Time <50ms
-        </p>
-        <div style="background: #0D1117; padding: 10px; border-radius: 8px; border: 1px solid #FF0055; margin: 10px 0;">
-          <p style="color: #FF0055; font-size: 12px; margin: 0;">Real-time financial surveillance using Gradient Boosting + LIME for interpretability. Transparent fraud vector analysis with <50ms detection latency.</p>
+      <div style="background: linear-gradient(135deg, rgba(255, 200, 150, 0.2), rgba(255, 220, 180, 0.2)); padding: 25px; border-radius: 15px; border: 2px dashed #FFD4A3; box-shadow: 0 8px 25px rgba(255, 200, 150, 0.2);">
+        <h3 style="color: #FF8C42;">🛡️ Fraud Command</h3>
+        <p style="color: #666; font-size: 14px;">Real-time financial security with explainable AI to catch fraud before it happens.</p>
+        <div style="background: white; padding: 12px; border-radius: 10px; margin: 12px 0; border: 1px solid #FFE8D6;">
+          <span style="color: #FFD4A3; font-family: monospace; font-size: 12px;">🔐 Anomaly Detection | LIME | Real-Time</span>
         </div>
-        <img src="https://img.shields.io/badge/SEC-Anomaly_Detection-red?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/XAI-LIME-00FF41?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Security-Anomaly Detection-FF8C42?style=flat-square" />
+        <img src="https://img.shields.io/badge/XAI-LIME-90EE90?style=flat-square" />
       </div>
     </td>
   </tr>
@@ -170,98 +121,83 @@ root@SALMA-NEXUS:~# STATUS: FULLY_OPERATIONAL ✓
 
 <br>
 
-<!-- PERFORMANCE ANALYTICS DASHBOARD -->
-<h2 align="center" style="color: #00FF41; text-shadow: 0 0 20px #00FF41;">📊 PERFORMANCE_ANALYTICS_NEXUS</h2>
+<!-- CUTE STATS SECTION -->
+<h2 align="center" style="color: #FFB6D9;">📊 GitHub Stats 📊</h2>
 
-<div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 12px; border: 2px solid #00FF41; box-shadow: 0 0 40px rgba(0,255,65,0.2);">
+<div align="center" style="background: linear-gradient(135deg, rgba(255, 182, 217, 0.1), rgba(200, 150, 220, 0.1)); padding: 30px; border-radius: 20px; border: 2px solid #FFB6D9; margin: 20px 0;">
+
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SalmaTech-03&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="Salma's Neural Stats" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaTech-03&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=BC13FE" alt="Computing Language Distribution" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SalmaTech-03&show_icons=true&theme=buefy&hide_border=true&bg_color=FCF4F8&title_color=FFB6D9&icon_color=FFB6D9&text_color=666" alt="Salma's GitHub Stats" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalmaTech-03&theme=react&hide_border=true&background=0D1117&ring=00FF41&fire=FF0055&currStreakLabel=BC13FE" alt="Commit Streak Analysis" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaTech-03&layout=compact&theme=buefy&hide_border=true&bg_color=FCF4F8&title_color=FFB6D9&text_color=B366CC" alt="Top Languages" />
   </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalmaTech-03&theme=buefy&hide_border=true&background=FCF4F8&ring=FFB6D9&fire=FF69B4&currStreakLabel=B366CC" alt="Streak Stats" />
+  </p>
+
 </div>
 
 <br>
 
-<!-- POWER LEVEL VISUALIZATION -->
-<div align="center" style="background: linear-gradient(to right, rgba(0,255,65,0.1), rgba(255,0,85,0.1)); padding: 25px; border-radius: 12px; border: 2px solid #BC13FE; margin: 20px 0;">
+<!-- CUTE SKILLS SECTION -->
+<div align="center" style="background: linear-gradient(to right, rgba(255, 182, 217, 0.15), rgba(180, 220, 240, 0.15)); padding: 25px; border-radius: 15px; border: 2px solid #E6B3D4; margin: 20px 0;">
 
-### 🔥 CAPABILITY_MATRIX
+### 🌈 Skills & Expertise
 
 ```
-AI/ML Systems Architecture    ████████████████████░  95%
-Deep Learning Model Design    ███████████████████░░  92%
-Causal Inference & Analytics  ███████████████████░░  90%
-Real-Time System Engineering  ██████████████████░░░  88%
-Production Deployment & Scale ████████████████░░░░░  85%
+Machine Learning & Deep Learning     ████████████████░░  85%
+Data Science & Analysis              ████████████████░░  85%
+Backend & System Design              ███████████████░░░  78%
+Physics & Signal Processing          ████████████████░░  82%
+Causal Inference & Statistics        ████████████████░░  80%
 ```
 
 </div>
 
 <br>
 
-<!-- TECH STACK VISUAL BREAKDOWN -->
-<div align="center" style="margin: 30px 0;">
+<!-- CUTE FOOTER -->
+<div align="center" style="background: linear-gradient(to bottom, rgba(255, 182, 217, 0.15), rgba(200, 150, 220, 0.15)); padding: 30px; border-radius: 20px; border: 3px solid #FFB6D9; margin-top: 30px;">
 
-### 🎯 TECHNOLOGY_ARSENAL
+  <p style="font-size: 24px;">💖 Let's build something amazing together! 💖</p>
 
-| **DIMENSION** | **TECHNOLOGIES** | **MASTERY** |
-| :---: | :--- | :---: |
-| 🧠 **Deep Learning** | PyTorch, TensorFlow, Keras | ████████░░ |
-| 📊 **ML Operations** | XGBoost, CatBoost, LightGBM, Scikit | ████████░░ |
-| 🔬 **Scientific Computing** | NumPy, SciPy, Pandas, Polars | ████████░░ |
-| 🚀 **Backend Infrastructure** | FastAPI, Django, PostgreSQL, Redis | ███████░░░ |
-| 🎨 **Computer Vision** | OpenCV, PyTorch Vision, YOLO | ███████░░░ |
-| ☁️ **Cloud & DevOps** | AWS, Docker, Kubernetes, CI/CD | ███████░░░ |
-| 📡 **Real-Time Systems** | Kafka, RabbitMQ, WebSockets | ███████░░░ |
-
-</div>
-
-<br>
-
-<!-- QUANTUM FOOTER -->
-<div align="center" style="background: linear-gradient(to bottom, rgba(0,255,65,0.1), rgba(188,19,254,0.1)); padding: 30px; border-radius: 12px; border-top: 3px solid #00FF41; border-bottom: 3px solid #FF0055;">
-
-  <svg width="100%" height="40" xmlns="http://www.w3.org/2000/svg" style="margin-bottom: 20px;">
-    <defs>
-      <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#00FF41;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#BC13FE;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FF0055;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="18" fill="url(#footerGrad)" font-weight="bold">
-      ◆ NEURAL NEXUS OPERATIONAL ◆ SYSTEM INTEGRITY: 100% ◆ AI READY ◆
-    </text>
-  </svg>
-
-  <img src="https://komarev.com/ghpvc/?username=SalmaTech-03&style=for-the-badge&color=00FF41&label=SYSTEM_ACCESS" alt="Visitor Matrix" />
-  
-  <br><br>
+  <br>
 
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/QUANTUM_LINK-EMAIL-FF0055?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/Email-FFB6D9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/NEURAL_NET-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/LinkedIn-B366CC?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/SalmaTech-03">
-    <img src="https://img.shields.io/badge/CODE_NEXUS-GITHUB-181717?style=for-the-badge&logo=github&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/GitHub-FFB6D9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <br><br>
-  
-  <p style="color: #00FF41; font-family: 'Courier New', monospace; font-weight: bold; text-shadow: 0 0 20px #00FF41;">
-    ▓▓▓ SYSTEM RUNNING AT 100% CAPACITY ▓▓▓<br>
-    > AWAITING NEXT_PROTOCOL...<br>
-    <span style="color: #BC13FE;">> READY FOR DEPLOYMENT</span>
+
+  <img src="https://komarev.com/ghpvc/?username=SalmaTech-03&style=flat-square&color=FFB6D9" alt="Visitors" />
+
+  <br><br>
+
+  <p style="color: #FFB6D9; font-size: 16px; font-weight: bold;">
+    ✨ Thanks for visiting! Don't forget to star if you like what you see ⭐ ✨
+  </p>
+
+  <p style="color: #B366CC; font-size: 14px;">
+    Made with 💕 by Salma
   </p>
 
 </div>
+
+---
+
+<br>
+
+<div align="center">
+  <p style="color: #FFB6D9; font-size: 20px;">🌸 🌸 🌸</p>
+</div>
 ```
+
