@@ -1,4 +1,4 @@
-
+text
 <!-- HEADER: GLITCH CYBERPUNK -->
 <div align="center">
   <img src="https://media.giphy.com/media/QpWDP1YMZZZD7X640P/giphy.gif" width="100%" height="300" style="object-fit: cover; border-radius: 15px; border: 2px solid #00FF41; box-shadow: 0 0 30px #00FF41;" />
@@ -13,17 +13,20 @@
 <br>
 
 <!-- BIO TERMINAL -->
-```bash
 root@SalmaTech-03:~# whoami
-> NEURAL ARCHITECT | DATA SCIENTIST | ML ENGINEER
+
+NEURAL ARCHITECT | DATA SCIENTIST | ML ENGINEER
 
 root@SalmaTech-03:~# cat mission.txt
-> "I don't just process data. I force it to confess."
-> Specializing in: Gravitational Physics (LIGO), Causal Inference, and Generative AI.
+
+"I don't just process data. I force it to confess."
+Specializing in: Gravitational Physics (LIGO), Causal Inference, and Generative AI.
 
 root@SalmaTech-03:~# ./run_skills.sh
-> LOADING NEURAL PATHWAYS... [||||||||||||||||||||] 100%
-```
+
+LOADING NEURAL PATHWAYS... [||||||||||||||||||||] 100%
+
+text
 
 <br>
 
@@ -68,7 +71,7 @@ root@SalmaTech-03:~# ./run_skills.sh
       <h3>⚡ RetainIQ Defense</h3>
       <img src="https://img.shields.io/badge/MODEL-XGBoost-orange?style=flat-square"> <img src="https://img.shields.io/badge/MATH-Causal_ML-purple?style=flat-square">
       <br><br>
-      <strong>Autonomous Churn Prevention.</strong> Leveraging Uplift Modeling to predict who can be saved. deployed as a microservice.
+      <strong>Autonomous Churn Prevention.</strong> Leveraging Uplift Modeling to predict who can be saved, deployed as a microservice.
     </td>
   </tr>
   <tr>
@@ -136,4 +139,3 @@ root@SalmaTech-03:~# ./run_skills.sh
     // SYSTEM HALTED.
   </p>
 </div>
-```
