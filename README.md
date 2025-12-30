@@ -86,18 +86,12 @@ Multi-source conversational AI agent with hybrid knowledge graph, live web searc
 
 ---
 
-### 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalmaTech-03&show_icons=true&theme=dark&rank_icon=github&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaTech-03&layout=compact&theme=dark&hide_border=true)
----
-
 ### 🎓 Experience & Education
 
 **Current**: Final-year BTech in AI & Data Science at Dhirajlal Gandhi College of Technology, Salem
 
 **Internships**:
-- **Edunet Foundation (APEX)** - AI Semantic Candidate Analysis & RentAI Project (Jul-Aug 2025)
+- **APEX** - AI Semantic Candidate Analysis & RentAI Project (Jul-Aug 2025)
 - **Zephyr Technologies** - Data Science Intern, Customer Segmentation (Sep-Oct 2024)
 - **SkillVertex** - Data Science Intern, Statistical Analysis (Jan-Mar 2024)
 
