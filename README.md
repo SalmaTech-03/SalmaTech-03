@@ -88,10 +88,8 @@ Multi-source conversational AI agent with hybrid knowledge graph, live web searc
 
 ### 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalmaTech-03&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalmaTech-03&show_icons=true&theme=dark&rank_icon=github&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaTech-03&layout=compact&theme=dark&hide_border=true)
-
 ---
 
 ### 🎓 Experience & Education
