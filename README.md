@@ -1,12 +1,11 @@
-# Hi, I'm Salma S 👋
-
+# Hi, I'm Salma S
 ## AI & Data Science Engineer | MLOps Specialist | Gen AI Architect
 
 Final-year AI & Data Science student building production-grade ML systems, intelligent automation solutions, and scalable data pipelines. Passionate about creating AI systems that solve real-world problems.
 
 ---
 
-### 🎯 What I Do
+### What I Do
 - **Production ML & MLOps**: Building reliable, scalable ML systems with monitoring, versioning, and deployment automation
 - **Gen AI & LLMs**: Developing with transformer models, fine-tuning, and RAG systems
 - **Data Engineering**: Processing large-scale datasets with Databricks, PySpark, and efficient pipelines
