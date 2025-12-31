@@ -2,8 +2,7 @@
 ## AI & Data Science Engineer | MLOps Specialist | Gen AI Architect
 
 Final-year AI & Data Science student building production-grade ML systems, intelligent automation solutions, and scalable data pipelines. Passionate about creating AI systems that solve real-world problems.
-[![Python](https://img.shields.io/badge/Python-3.9+-blue)]
-[![Stars](https://img.shields.io/github/stars/SalmaTech-03/project-name)]
+
 
 ---
 
