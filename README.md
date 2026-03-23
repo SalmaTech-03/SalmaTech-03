@@ -112,16 +112,8 @@ Multi-source conversational AI agent with hybrid knowledge graph, live web searc
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.salma.techie@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SalmaTech-03)
 
-**Looking for**: Full-time AI/ML Engineer, MLOps Engineer, or Data Science roles focused on production systems and Gen AI applications.
 
----
 
-### 📌 Fun Facts
-
-🌍 Based in Tamil Nadu, India  
-💡 Passionate about building ML systems that scale  
-📚 Continuously learning new AI/ML techniques  
-🤝 Open to collaborating on impactful projects  
 
 ---
 
