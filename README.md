@@ -1,4 +1,4 @@
-# SalmaTech-03 — Data Science & AI/ML Portfolio
+# SalmaTech-03 — Data Analyst | Data Science | AI/ML Portfolio
 
 ## Professional Profile
 
