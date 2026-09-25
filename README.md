@@ -2,7 +2,7 @@
 
 ## Professional Profile
 
-I am a **Data Scientist and AI/ML Engineer** specializing in business analytics, predictive modeling, generative AI, NLP, cybersecurity, and intelligent dashboards.
+I am a **Data Scientist and AI/ML Engineer** specializing in business analytics, predictive modeling, generative AI, NLP and intelligent dashboards.
 
 My projects demonstrate experience across:
 
